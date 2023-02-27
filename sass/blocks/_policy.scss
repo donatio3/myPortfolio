@@ -1,0 +1,109 @@
+
+.policy {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #eee;
+    .container{
+        padding: 20px;
+        border: solid 2px #eee;
+        background-color: white;
+
+    }
+    .wrapper{
+        padding: 20px;
+        border: solid 2px #eee;
+         
+    span{
+        border-bottom: 1.5px dotted #fa8669;
+        background: #fcf8e3;
+        cursor: pointer;
+    }
+    
+    .subtext{
+        .first{
+            line-height: 1.8;
+            margin-bottom: 24px;
+        }
+        .second{
+            line-height: 1.8;
+            margin-bottom: 16px;
+            padding-left: 28px;
+        }
+    }
+    }
+    
+    
+    
+    h4{
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 1.1;
+        margin-bottom: 8px;
+        color: #212529;
+        font-family: 'Noto Sans', sans-serif;
+
+    }
+    h5{
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: 24px;
+        color: #212529;
+        font-family: 'Noto Sans', sans-serif;
+
+    }
+    table{
+        border-collapse:collapse;
+        border: 1px solid grey;
+        margin-bottom: 16px;
+        ul{
+            list-style-type: none;
+        }
+        tr{
+            border: 1px solid grey;
+            th,td{
+                border: 1px solid grey;
+                text-align: left;
+                padding:0.5em 0.75em;
+                
+            }
+        }
+    }
+    
+    .text{
+        
+        padding-left: 40px;
+        ol{
+            margin-bottom: 16px;
+            list-style-type: none;
+            li{
+                position: relative;
+                left: 10px;
+                line-height: 1.8;  
+                
+            }
+            
+        }
+        .first{
+            font-size: 16px;
+            font-weight: 400;
+            color: #212529;
+        }
+        .second{
+            font-size: 16px;
+            font-weight: 400;
+            color: #212529;
+            margin-bottom: 16px;
+        }
+
+        .one{
+            padding-left: 0;
+        }
+        
+        font-family: 'Noto Sans', sans-serif;
+    }
+    }
+    
+
+   
+   
+    
+    
